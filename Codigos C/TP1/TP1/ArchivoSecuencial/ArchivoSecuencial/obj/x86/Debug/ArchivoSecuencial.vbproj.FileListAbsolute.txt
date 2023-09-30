@@ -1,0 +1,9 @@
+C:\Franco\Facultad UADER  FCyT\Informatica III 2023\TP1\ArchivoSecuencial\ArchivoSecuencial\bin\Debug\ArchivoSecuencial.exe
+C:\Franco\Facultad UADER  FCyT\Informatica III 2023\TP1\ArchivoSecuencial\ArchivoSecuencial\bin\Debug\ArchivoSecuencial.pdb
+C:\Franco\Facultad UADER  FCyT\Informatica III 2023\TP1\ArchivoSecuencial\ArchivoSecuencial\bin\Debug\ArchivoSecuencial.xml
+C:\Franco\Facultad UADER  FCyT\Informatica III 2023\TP1\ArchivoSecuencial\ArchivoSecuencial\obj\x86\Debug\WindowsApplication1.ArchivoSecuencial.resources
+C:\Franco\Facultad UADER  FCyT\Informatica III 2023\TP1\ArchivoSecuencial\ArchivoSecuencial\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Franco\Facultad UADER  FCyT\Informatica III 2023\TP1\ArchivoSecuencial\ArchivoSecuencial\obj\x86\Debug\ArchivoSecuencial.vbproj.GenerateResource.Cache
+C:\Franco\Facultad UADER  FCyT\Informatica III 2023\TP1\ArchivoSecuencial\ArchivoSecuencial\obj\x86\Debug\ArchivoSecuencial.exe
+C:\Franco\Facultad UADER  FCyT\Informatica III 2023\TP1\ArchivoSecuencial\ArchivoSecuencial\obj\x86\Debug\ArchivoSecuencial.xml
+C:\Franco\Facultad UADER  FCyT\Informatica III 2023\TP1\ArchivoSecuencial\ArchivoSecuencial\obj\x86\Debug\ArchivoSecuencial.pdb

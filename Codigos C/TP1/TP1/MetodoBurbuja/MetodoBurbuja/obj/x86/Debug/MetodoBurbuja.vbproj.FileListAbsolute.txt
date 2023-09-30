@@ -1,0 +1,9 @@
+C:\Franco\Facultad UADER  FCyT\Informatica III 2023\TP1\MetodoBurbuja\MetodoBurbuja\bin\Debug\MetodoBurbuja.exe
+C:\Franco\Facultad UADER  FCyT\Informatica III 2023\TP1\MetodoBurbuja\MetodoBurbuja\bin\Debug\MetodoBurbuja.pdb
+C:\Franco\Facultad UADER  FCyT\Informatica III 2023\TP1\MetodoBurbuja\MetodoBurbuja\bin\Debug\MetodoBurbuja.xml
+C:\Franco\Facultad UADER  FCyT\Informatica III 2023\TP1\MetodoBurbuja\MetodoBurbuja\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Franco\Facultad UADER  FCyT\Informatica III 2023\TP1\MetodoBurbuja\MetodoBurbuja\obj\x86\Debug\MetodoBurbuja.vbproj.GenerateResource.Cache
+C:\Franco\Facultad UADER  FCyT\Informatica III 2023\TP1\MetodoBurbuja\MetodoBurbuja\obj\x86\Debug\MetodoBurbuja.exe
+C:\Franco\Facultad UADER  FCyT\Informatica III 2023\TP1\MetodoBurbuja\MetodoBurbuja\obj\x86\Debug\MetodoBurbuja.xml
+C:\Franco\Facultad UADER  FCyT\Informatica III 2023\TP1\MetodoBurbuja\MetodoBurbuja\obj\x86\Debug\MetodoBurbuja.pdb
+C:\Franco\Facultad UADER  FCyT\Informatica III 2023\TP1\MetodoBurbuja\MetodoBurbuja\obj\x86\Debug\WindowsApplication1.MetodoBurbuja.resources
